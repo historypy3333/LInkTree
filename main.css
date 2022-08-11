@@ -1,5 +1,5 @@
 body {
-  background-image: url(/imgs/main\ BG.png);
+  background-image: url(./main\ BG.png);
   background-size: cover;
   background-repeat: repeat;
   font-family: "Roboto", sans-serif;
@@ -14,7 +14,7 @@ section.sec1 header div {
           justify-content: center;
 }
 section.sec1 header div img {
-  background-image: url(../imgs/Card.png);
+  background-image: url(./Card.png);
   width: 150px;
   height: 150px;
   border-radius: 500px;
